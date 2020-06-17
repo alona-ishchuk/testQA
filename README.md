@@ -41,3 +41,5 @@ Sample input:
 
 Sample output
 2 | 1
+
+Program can be run on the ideone.com (https://ideone.com/qUv4NE )
